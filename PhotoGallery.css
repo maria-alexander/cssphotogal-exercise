@@ -1,0 +1,14 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+h1 {
+	text-align: left;
+	font-family: "Unica One", cursive;
+	text-transform: underline;
+	color: rgba(0,0,0,0.7);
+	font-size: 28px;
+	margin-left: 1.66%;
+}
